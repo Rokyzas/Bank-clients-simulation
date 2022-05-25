@@ -1,4 +1,4 @@
-// Lukas Brasiunas, 2110539
+// Lukas Brasiunas
 
 #ifndef QUEUE_FUNCTION_DESC_H_INCLUDED
 #define QUEUE_FUNCTION_DESC_H_INCLUDED
