@@ -1,4 +1,4 @@
-// Lukas Brasiunas, 2110539
+// Lukas Brasiunas
 
 #include "queue_function_desc.h"
 
