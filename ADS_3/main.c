@@ -1,3 +1,10 @@
+// Rokas Čebatorius, Programų sistemos 1 kursas, 2 pogrupis
+// rokas.cebatorius@mif.stud.vu.lt
+//
+// Bank client line Simulation
+// Process 1 - all clients stand in one line, vip clients are prioritised.
+// Process 2 - having separate workers that work only with simple or vip clients.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "queue_function_desc.h"
@@ -29,8 +36,6 @@ int main()
 	process1();
 
 	process2();
-
-
 
 	return 0;
 }
