@@ -1,3 +1,7 @@
+
+// Rokas Čebatorius, Programų sistemos 1 kursas, 2 pogrupis
+// rokas.cebatorius@mif.stud.vu.lt
+
 #ifndef priorityListFunc_h
 #define priorityListFunc_h
 
