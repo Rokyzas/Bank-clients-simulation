@@ -1,0 +1,20 @@
+﻿  main.c
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(130,36): warning C4047: '=': 'void *' differs in levels of indirection from 'int'
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(147,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(148,60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(152,10): warning C4098: 'process1': 'void' function returning a value
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(189,37): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(189,32): warning C4024: 'enQueue': different types for formal and actual parameter 3
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(195,34): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(195,29): warning C4024: 'enQueue': different types for formal and actual parameter 3
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(288,36): warning C4047: '=': 'void *' differs in levels of indirection from 'int'
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(292,31): warning C4133: '=': incompatible types - from 'QNode *' to 'Node *'
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(295,36): warning C4047: '=': 'void *' differs in levels of indirection from 'int'
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(318,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(319,60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(323,10): warning C4098: 'process2': 'void' function returning a value
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(285,1): warning C4133: 'initializing': incompatible types - from 'QNode *' to 'Node *'
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(331,12): warning C4098: 'PrintListIntData': 'void' function returning a value
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(336,12): warning C4098: 'PrintListIntData': 'void' function returning a value
+C:\Users\Rokis\source\repos\ADS_3\ADS_3\main.c(352,55): warning C4029: declared formal parameter list different from definition
+  ADS_3.vcxproj -> C:\Users\Rokis\source\repos\ADS_3\Debug\ADS_3.exe
